@@ -40,4 +40,4 @@ djangorestframework==3.14.0
 
 ## Deployment
 
-Deployed on Railway: 
+Deployed on Railway: https://web-production-6b0a6.up.railway.app
